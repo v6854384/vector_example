@@ -5,7 +5,6 @@
 
 vector_t::vector_t()
 {
-	//7473535
 }
 
 vector_t::vector_t(vector_t const & other)
@@ -58,3 +57,4 @@ bool operator !=(vector_t const & lhs, vector_t const & rhs)
 {
 	return true;
 }
+/* jcxgj *\
