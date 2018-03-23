@@ -5,6 +5,7 @@
 
 vector_t::vector_t()
 {
+	//7473535
 }
 
 vector_t::vector_t(vector_t const & other)
